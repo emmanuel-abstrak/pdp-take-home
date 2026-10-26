@@ -1,0 +1,6 @@
+# Assignment brief is the hiring company's document, not part of the submission
+*.pdf
+
+node_modules/
+.env*.local
+.DS_Store
